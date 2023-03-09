@@ -1,0 +1,42 @@
+.profile{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 30px;
+}
+.user-profile{
+    width: 300px;
+    height: 230px;
+    margin: 30px;
+    border:1px solid black;
+}
+.user-avatar img{
+width:100px;
+height: 100px;
+border-radius:50px;
+margin-left: 100px;
+}
+.fullname{
+    margin-left:110px;
+}
+.Email{
+    margin-left:50px;
+}
+.edit{
+    width: 600px;
+    height: 330px;
+    margin: 30px;
+    border:1px solid black;
+}
+.button{
+    width:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.field{
+    width:200px;
+    
+}
